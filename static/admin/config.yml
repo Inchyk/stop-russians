@@ -10,15 +10,12 @@ collections:
     label: 'Equipment'
     folder: '/src/equipment'
     create: true
-    slug: 'index'
-    media_folder: ''
-    public_folder: ''
-    path: '{{title}}/index'
+    slug: '{{title}}'
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Category', name: 'category', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'string' }
-      - { label: 'Source', name: 'source', widget: 'string' }
-      - { label: 'Data', name: 'data', widget: 'markdown' }
+      - { label: 'Title', name: 'title', widget: 'string', required: false }
+      - { label: 'Category', name: 'category', widget: 'string', required: false }
+      - { label: 'Image', name: 'image', widget: 'string', required: false }
+      - { label: 'Source', name: 'source', widget: 'string', required: false }
+      - { label: 'Data', name: 'data', widget: 'markdown', required: false }
