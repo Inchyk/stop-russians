@@ -8,9 +8,10 @@ public_folder: /img
 collections:
   - name: 'equipment'
     label: 'Equipment'
-    folder: '/src/equipment/{{slug}}'
+    folder: "/src/equipment/{{title}}"
     create: true
-    slug: 'index'
+    slug: "index"
+    path: "{{category}}/{{title}}/index"
     editor:
       preview: true
     fields:
