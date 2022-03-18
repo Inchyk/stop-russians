@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8ac63a56-b875-4373-a404-e5f7b23ded5c/deploy-status)](https://app.netlify.com/sites/stop-orda/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45cfcc5b-8a62-481e-9514-d70ced1fa6a5/deploy-status)](https://app.netlify.com/sites/stop-russians/deploys)
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
