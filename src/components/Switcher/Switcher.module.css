@@ -1,0 +1,23 @@
+.switcher {
+    display: flex;
+    gap: 1em;
+}
+
+.icon {
+    width: 1.5em;
+    height: 1.5em;
+    align-self: center;
+    background-color: #F5F5F5;
+    border: none;
+    padding: 0;
+}
+
+.svgIcon {
+    width: 120%;
+    height: 120%;
+    color: gray;
+}
+
+.active {
+    color: black;  
+}

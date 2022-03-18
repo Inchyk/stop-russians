@@ -1,0 +1,56 @@
+.grid .png-img {
+    border-radius: 4px;
+}
+.grid.military-equipment {
+    position: relative;
+    margin: 4px;
+}
+
+.grid.military-equipment h2 {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 94.9%);
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: flex-end;
+    color: #ffffff;
+    position: absolute;
+    bottom: 0px;
+    padding: 0 16px 12px;
+    font-size: 14px;
+    margin: 0;
+    border-radius: 4px;
+}
+
+
+.list.military-equipment {
+    display: flex;
+    margin-bottom: 8px;
+    column-gap: 20px;
+    background-color: #ffffff;
+    border: 1px solid #E4E4E4;
+    border-radius: 4px;
+    height: 73px;
+    align-items: center;
+}
+
+.list.military-equipment h2 {
+    padding: 0;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.link-view {
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+
+.list .img-container {
+    display: flex;
+    align-items: center;
+    width: 80px;
+    height: 50px;
+    margin: 0px 0 0px 1px;
+}

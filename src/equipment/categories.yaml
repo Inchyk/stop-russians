@@ -1,0 +1,60 @@
+- name: airplanes
+  title: Літаки
+  grid_img: ./images/airplane.png
+  list_img: ./images/airplane_l.png
+- name: helicopters
+  title: Гелікоптери
+  grid_img: ./images/helicopter.png
+  list_img: ./images/helicopter_l.png
+- name: tanks
+  title: Танки
+  grid_img: ./images/tank.png
+  list_img: ./images/tank_l.png
+- name: bbms
+  title: Бойові броньовані машини (ББМ)
+  grid_img: ./images/bbm.png
+  list_img: ./images/bbm_l.png
+- name: zrk
+  title: ЗРК
+  grid_img: ./images/buk.png
+  list_img: ./images/buk_l.png
+- name: projectiles
+  title: Снаряди
+  grid_img: ./images/projectile.png
+  list_img: ./images/projectile_l.png
+- name: artillery
+  title: Гармати
+  grid_img: ./images/gun.png
+  list_img: ./images/gun_l.png
+- name: automobiles
+  title: Автомобільна техніка
+  grid_img: ./images/automobile.png
+  list_img: ./images/automobile.png
+- name: tankers
+  title: Цистерни
+  grid_img: ./images/tanker.png
+  list_img: ./images/tanker.png
+- name: uav
+  title: Безпілотні літальні апарати
+  grid_img: ./images/uav.png
+  list_img: ./images/uav.png
+- name: ships
+  title: Кораблі/катери
+  grid_img: ./images/ship.png
+  list_img: ./images/ship.png
+- name: mines
+  title: Міни
+  grid_img: ./images/mines.png
+  list_img: ./images/mines.png
+- name: flamethrowersystem
+  title: Вогнеметні системи
+  grid_img: ./images/flamethrower.png
+  list_img: ./images/flamethrower.png
+- name: bombs
+  title: Авіабомби
+  grid_img: ./images/bombs.png
+  list_img: ./images/bombs.png
+- name: smallarms
+  title: Стрілецька зброя
+  grid_img: ./images/small arms.png
+  list_img: ./images/small arms.png
