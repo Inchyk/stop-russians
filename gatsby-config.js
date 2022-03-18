@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Stop orda`,
-    siteUrl: `https://russian-weapon.netlify.app`
+    title: `Stop russians!`,
+    siteUrl: `https://stop-russian.netlify.app`
   },
   plugins: [
     "gatsby-plugin-netlify-cms",
@@ -38,8 +38,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Stop orda`,
-        short_name: `Stop orda`,
+        name: `Stop russians!`,
+        short_name: `Stop russians!`,
         start_url: `/index.html`,
         background_color: `#F5F5F5`,
         theme_color: `#F5F5F5`,
