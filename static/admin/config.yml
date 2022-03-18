@@ -10,7 +10,7 @@ collections:
     label: 'Equipment'
     folder: '/src/equipment'
     create: true
-    slug: '{index}'
+    slug: 'index'
     editor:
       preview: true
     fields:
@@ -18,4 +18,4 @@ collections:
       - { label: 'Category', name: 'category', widget: 'string', required: false }
       - { label: 'Image', name: 'image', widget: 'string', required: false }
       - { label: 'Source', name: 'source', widget: 'string', required: false }
-      - { label: 'Data', name: 'data', widget: 'text', required: false }
+      - { label: 'Data', widget: 'text', required: false }
