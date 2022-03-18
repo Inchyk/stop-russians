@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   - name: 'equipment'
     label: 'Equipment'
-    folder: '../../content/equipment'
+    folder: '/src/equipment'
     create: true
     slug: 'index'
     media_folder: ''
