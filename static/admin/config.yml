@@ -10,7 +10,7 @@ collections:
     label: 'Equipment'
     folder: '/src/equipment'
     create: true
-    slug: '{{title}}'
+    slug: 'index'
     editor:
       preview: true
     fields:
